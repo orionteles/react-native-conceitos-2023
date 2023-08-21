@@ -12,7 +12,7 @@ export default function App() {
         <Text style={styles.titulo}>Hello World!!</Text>
         <Text style={styles.paragrafo}>Isto é um parágrafo.</Text>
         <Text>Isto é um parágrafo.</Text>
-        <Text style={styles.paragrafo}>Isto é um parágrafo.</Text>
+        <Text style={styles.paragrafo}>Isto é um parágrafo!</Text>
         <StatusBar style="auto" />
       </View>
 
