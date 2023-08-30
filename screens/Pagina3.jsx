@@ -8,16 +8,17 @@ const Pagina3 = () => {
 
     return (
         <>
-            <Card style={{marginBottom: 10}}>
+
+            <Card style={{ marginBottom: 10 }}>
                 <Card.Title title="Card Title" subtitle="Card Subtitle" left={LeftContent} />
             </Card>
-            <Card style={{marginBottom: 10}}>
+            <Card style={{ marginBottom: 10 }}>
                 <Card.Title title="Card Title" subtitle="Card Subtitle" left={LeftContent} />
             </Card>
-            <Card style={{marginBottom: 10}}>
+            <Card style={{ marginBottom: 10 }}>
                 <Card.Title title="Card Title" subtitle="Card Subtitle" left={LeftContent} />
             </Card>
-            <Card style={{marginBottom: 10}}>
+            <Card style={{ marginBottom: 10 }}>
                 <Card.Title title="Card Title" subtitle="Card Subtitle" left={LeftContent} />
             </Card>
         </>
